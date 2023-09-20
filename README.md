@@ -1,6 +1,6 @@
 # Hi there, I'm Kaushal 👋
 
-<img align="left" width="47%" src = "https://github-readme-stats-kbpatel3.vercel.app/api?username=Kbpatel3&show_icons=true&theme=radical" />
+<img align="left" width="47%" src = "https://github-readme-stats-kbpatel3.vercel.app/api?username=Kbpatel3&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage" />
 <img align="left" width="47%" src = "https://github-readme-stats-kbpatel3.vercel.app/api/top-langs/?username=Kbpatel3&layout=compact" />
 
 :smile:  
