@@ -1,7 +1,7 @@
 # Hi there, I'm Kaushal 👋
 
-<img align="left" width="47%" src = "https://github-stats-kbpatel3.vercel.app/api?username=Kbpatel3&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage" />
-<img align="left" width="47%" src = "https://github-stats-kbpatel3.vercel.app/api/top-langs/?username=Kbpatel3&layout=compact" />
+<img align="left" width="47%" src = "https://github-readme-stats-zeta-ivory-56.vercel.app/api?username=Kbpatel3&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage" />
+<img align="left" width="47%" src = "https://github-readme-stats-zeta-ivory-56.vercel.app/api/top-langs/?username=Kbpatel3&layout=compact" />
 
 :smile:  
 
